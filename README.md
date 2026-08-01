@@ -1,6 +1,6 @@
 # Travelgram
 
-Projeto de estudo front-end que reproduz uma página de perfil estilo rede social voltada para viagens, com header de navegação, seção de perfil e um feed de fotos em grid.
+Projeto de estudo front-end que reproduz uma página estática de perfil estilo rede social voltada para viagens, com header de navegação, seção de perfil e um feed de fotos em grid.
 
 ![Preview do projeto](./assets/preview.png)
 
