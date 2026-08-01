@@ -1,0 +1,22 @@
+.profile {
+    
+    display: flex;
+    justify-content: space-between;
+    
+    padding-top: 32px;
+}
+
+.profile-info {
+    width: 640px;
+    display: flex;
+    gap: 32px;
+
+}
+
+
+.profile-icon{
+    display: flex;
+    gap: 16px;
+    margin-bottom: 16px;
+}
+
